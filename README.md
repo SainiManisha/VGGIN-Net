@@ -8,7 +8,6 @@
 
 Proposed **VGGIN-Net** for breast cancer classification on **BREAKHIS**:
 
-> Notebook for code (w/o results): [[ipynb]](./VGGINET-SemiFinal/VGGINET.ipynb)
 >
 > [TensorBoard.dev](https://tensorboard.dev) aggregating all training and validation metrics: https://tensorboard.dev/experiment/PSnYyZUWTBem4dLvQYNm2g/
 
