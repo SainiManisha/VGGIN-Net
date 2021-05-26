@@ -1,6 +1,3 @@
-# VGGIN-Net
-VGGIN-Net architecture for imbalanced breast cancer classification
-
 # VGGIN-Net for Imbalanced Breast Cancer Classification
 
 ![vggin-graphical-abstract](./vggin-net-graphical-architecture.png)
@@ -19,5 +16,5 @@ Proposed **VGGIN-Net** with **Fine Tuning** for breast cancer classification on 
 
 >
 > [TensorBoard.dev](https://tensorboard.dev) aggregating all training and validation metrics: https://tensorboard.dev/experiment/P7EkvFxPQgSWGqAPhE7w2A/
-
+>
 > Learning curves on validation set: ![Learning Curves on Validation Set](./validation_plot.png)
