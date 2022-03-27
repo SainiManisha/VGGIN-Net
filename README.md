@@ -17,3 +17,5 @@ Proposed **VGGIN-Net** with **Fine Tuning** for breast cancer classification on 
 > [TensorBoard.dev](https://tensorboard.dev) aggregating all training and validation metrics: https://tensorboard.dev/experiment/P7EkvFxPQgSWGqAPhE7w2A/
 >
 > Learning curves on validation set: ![Learning Curves on Validation Set](./validation_plot.png)
+
+For more results and experiments comparing our proposed approach, [vist GitLab repo](https://gitlab.com/SainiManisha/vggin-net).
