@@ -19,3 +19,18 @@ Proposed **VGGIN-Net** with **Fine Tuning** for breast cancer classification on 
 > Learning curves on validation set: ![Learning Curves on Validation Set](./validation_plot.png)
 
 For more results and experiments comparing our proposed approach, [vist GitLab repo](https://gitlab.com/SainiManisha/vggin-net).
+
+# Citation
+
+```
+@article{vgginnet,
+  author={Saini, Manisha and Susan, Seba},
+   journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics},
+   title={VGGIN-Net: Deep Transfer Network for Imbalanced Breast Cancer Dataset},
+   year={2022},
+   volume={},
+   number={},
+   pages={1-1},
+   doi={10.1109/TCBB.2022.3163277}
+}
+```
