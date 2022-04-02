@@ -18,7 +18,7 @@ Proposed **VGGIN-Net** with **Fine Tuning** for breast cancer classification on 
 >
 > Learning curves on validation set: ![Learning Curves on Validation Set](./validation_plot.png)
 
-For more results and experiments comparing our proposed approach, [vist GitLab repo](https://gitlab.com/SainiManisha/vggin-net).
+For more results and experiments comparing our proposed approach, [visit GitLab repo](https://gitlab.com/SainiManisha/vggin-net).
 
 # Citation
 
