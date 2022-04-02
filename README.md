@@ -20,7 +20,7 @@ Proposed **VGGIN-Net** with **Fine Tuning** for breast cancer classification on 
 
 For more results and experiments comparing our proposed approach, [visit GitLab repo](https://gitlab.com/SainiManisha/vggin-net).
 
-# Citation
+## Citation
 
 **If using this code, please cite our paper as:**
 
