@@ -24,7 +24,7 @@ For more results and experiments comparing our proposed approach, [visit GitLab 
 
 **If using this code, please cite our paper as:**
 
-M. Saini and S. Susan, "VGGIN-Net: Deep Transfer Network for Imbalanced Breast Cancer Dataset" in IEEE/ACM Transactions on Computational Biology and Bioinformatics. doi: 10.1109/TCBB.2022.3163277
+Saini, Manisha, and Seba Susan, "VGGIN-Net: Deep Transfer Network for Imbalanced Breast Cancer Dataset" in IEEE/ACM Transactions on Computational Biology and Bioinformatics (2022). doi: 10.1109/TCBB.2022.3163277
 
 ```
 @article{vgginnet,
